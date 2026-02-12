@@ -1,4 +1,4 @@
 pandas
 scikit-learn
 streamlit
-altair
+altair-vegalite-v4
